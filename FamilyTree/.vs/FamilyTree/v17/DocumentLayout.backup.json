@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\familymapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|solutionrelative:familymapmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|c:\\users\\aravind\\documents\\api scripts\\sourcecode\\familytree\\chartdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|solutionrelative:chartdatacollector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD4EB84C-0C51-49F2-B05A-39F19DA600A1}|FamilyTree.csproj|solutionrelative:class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 237,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ChartDataCollector.cs",
+              "DocumentMoniker": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\ChartDataCollector.cs",
+              "RelativeDocumentMoniker": "ChartDataCollector.cs",
+              "ToolTip": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\ChartDataCollector.cs",
+              "RelativeToolTip": "ChartDataCollector.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAQwGMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:31:26.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FamilyMapManager.cs",
+              "DocumentMoniker": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\FamilyMapManager.cs",
+              "RelativeDocumentMoniker": "FamilyMapManager.cs",
+              "ToolTip": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\FamilyMapManager.cs*",
+              "RelativeToolTip": "FamilyMapManager.cs*",
+              "ViewState": "AgIAAA0BAAAAAAAAAAA+wBcBAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T08:53:52.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\Class1.cs",
+              "RelativeDocumentMoniker": "Class1.cs",
+              "ToolTip": "C:\\Users\\Aravind\\Documents\\API Scripts\\SourceCode\\FamilyTree\\Class1.cs",
+              "RelativeToolTip": "Class1.cs",
+              "ViewState": "AgIAAHUAAAAAAAAAAADwv50AAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-28T07:31:14.102Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
